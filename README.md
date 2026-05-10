@@ -2,6 +2,8 @@
 
 Lovelace card for Home Assistant — digital clock + weather forecast tuned for wall-mounted tablet kiosks.
 
+![Tablet Clock Card](.github/assets/card.png)
+
 Forked from [pkissling/clock-weather-card](https://github.com/pkissling/clock-weather-card) with customisations for our kiosk layout. Weather icons by [basmilius](https://github.com/basmilius/weather-icons).
 
 ## Install (HACS custom repository)
