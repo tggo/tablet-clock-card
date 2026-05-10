@@ -15,6 +15,6 @@ export default tseslint.config(
     },
   },
   {
-    ignores: ['dist/**'],
+    ignores: ['dist/**', 'tablet-clock-card.js'],
   },
 );
