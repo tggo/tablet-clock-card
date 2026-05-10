@@ -11,8 +11,11 @@
     "custom-cards"
   ],
   "module": "tablet-clock-card.js",
-  "repository": "git@github.com:pkissling/tablet-clock-card.git",
-  "author": "Patrick Kissling <patrick.kissling@gmx.de>",
+  "repository": "git@github.com:tggo/tablet-clock-card.git",
+  "author": "tggo",
+  "contributors": [
+    "Patrick Kissling <patrick.kissling@gmx.de> (original clock-weather-card)"
+  ],
   "license": "MIT",
   "type": "module",
   "dependencies": {
