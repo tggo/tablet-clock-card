@@ -1,0 +1,12 @@
+tablet-clock-card
+Copyright (c) 2026 tggo
+
+This project is a fork of clock-weather-card
+(https://github.com/pkissling/clock-weather-card),
+Copyright (c) 2022 Patrick Kissling.
+
+Copyright for portions of this project are held by Bas Milius, 2020-2022,
+as part of project weather-icons
+(https://github.com/basmilius/weather-icons).
+
+All of the above are licensed under the MIT License; see LICENSE.
